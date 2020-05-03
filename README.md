@@ -1,5 +1,5 @@
 ## 视频预览
-[video(video-Irox5VaA-1588510066407)(type-bilibili)(url-https://player.bilibili.com/player.html?aid=795543097)(image-https://ss.csdn.net/p?http://i1.hdslb.com/bfs/archive/b3d15f18375c5c1a205b9faea9bd3f3fe20d36d9.jpg)(title-诗音情)]
+[video(video-Irox5VaA-1588510066407)(type-bilibili)(url-https://player.bilibili.com/player.html?aid=795543097)(image-https://ss.csdn.net/p?http://i1.hdslb.com/bfs/archive/b3d15f18375c5c1a205b9faea9bd3f3fe20d36d9.jpg)(title-诗音情)]https://www.bilibili.com/video/BV1DC4y1W7WS/https://www.bilibili.com/video/BV1DC4y1W7WS/
 ## 吐槽
 如题所示，贼难受，就好像幸幸苦苦追了一星期的女孩突然对自己说：对不起，我有男票了！不过问题不大，一开始就没好好阅读小程序规矩，怪不了谁。毕竟在人家地盘，就该遵守人家的规矩。
 	
