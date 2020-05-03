@@ -1,3 +1,7 @@
+## 博客地址
+
+https://blog.csdn.net/Cxk___/article/details/105908482
+
 ## 视频预览
 [video(video-Irox5VaA-1588510066407)(type-bilibili)(url-https://player.bilibili.com/player.html?aid=795543097)(image-https://ss.csdn.net/p?http://i1.hdslb.com/bfs/archive/b3d15f18375c5c1a205b9faea9bd3f3fe20d36d9.jpg)(title-诗音情)]https://www.bilibili.com/video/BV1DC4y1W7WS/https://www.bilibili.com/video/BV1DC4y1W7WS/
 ## 吐槽
